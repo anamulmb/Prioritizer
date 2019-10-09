@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Prioritizer.iml" filepath="$PROJECT_DIR$/Prioritizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prior/prior.iml" filepath="$PROJECT_DIR$/prior/prior.iml" />
+    </modules>
+  </component>
+</project>
